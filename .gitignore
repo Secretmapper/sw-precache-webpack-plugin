@@ -27,6 +27,3 @@ node_modules/
 
 # Compass
 .sass-cache
-
-# Build
-lib/
